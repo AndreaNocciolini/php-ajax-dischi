@@ -6,4 +6,3 @@ echo json_encode([
     'results' => $cards,
     'length' => count($cards)
 ]);
-?>
