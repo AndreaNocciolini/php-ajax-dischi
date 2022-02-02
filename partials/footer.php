@@ -1,0 +1,1 @@
+<footer>lorem ipsum</footer>

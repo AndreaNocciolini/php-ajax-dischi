@@ -1,0 +1,32 @@
+/* START Header */
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    background-color: #2E3A46;
+}
+
+.logo-container {
+    width: 4%;
+}
+
+.header-img-logo {
+    width: 100%;
+    padding: 0.4em;
+}
+    
+/* END Header */
+/* START Main */
+.main-container {
+    height: 100vh;
+    background-color: #1E2D3B;
+}
+
+.album-container {
+    width: 70%;
+    margin: 0 auto;
+    background-color: red;
+    height: 100%;
+}
+/* END SMain */
